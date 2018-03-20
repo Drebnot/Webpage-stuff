@@ -1,0 +1,25 @@
+.bang {
+  text-shadow: 5px 5px;
+  text-align: center;
+  font-size: 80px;
+  text-decoration: underline;
+}
+.D-hidden{
+  display: none;
+}
+
+.D-showing{
+  display: block;
+}
+
+img {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: red;
+}
+.clickable:hover{
+  text-decoration: underline;
+}
