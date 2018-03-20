@@ -5,15 +5,15 @@
   text-decoration: underline;
 }
 .D-hidden{
-  display: none;
-}
-
-.D-showing{
   display: block;
 }
 
-img {
+.D-showing{
   display: none;
+}
+
+img {
+  /*display: none;*/
 }
 
 .clickable {
